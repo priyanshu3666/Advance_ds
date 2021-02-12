@@ -43,7 +43,7 @@ public class SinglyLinkedList
 	    SinglyLinkedList  sll = new SinglyLinkedList();
 	    sll.head  = new ListNode(10);
 	    ListNode second = new ListNode(1);
-	    ListNode third = new ListNode(8);
+	    ListNode third =  new ListNode(8);
 	    ListNode fourth = new ListNode(11);
 	    
 	    sll.head.next = second;
